@@ -1,8 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
  You need run:
+ 
 1.npm install
+
 2.npm add node-sass
+
 3.npm run start
 
 
