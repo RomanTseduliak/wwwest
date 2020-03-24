@@ -18,7 +18,7 @@ const Profile = props => {
       <h1>Here is my profile</h1>
       <button onClick={logout}>Logout</button>
       <br></br>
-      <button><NavLink to="home">To the main</NavLink></button>
+      <button><NavLink to="/">To the main</NavLink></button>
       <br></br>
       <button><NavLink to="news">News</NavLink></button>
     </div>
