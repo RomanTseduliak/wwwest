@@ -18,7 +18,7 @@ const Home = props => {
       }}
     >
       <h1>Welcome to news feed</h1>
-      <button onClick={login}>Login</button>
+      
       <hr />
       <h3>
         Check this <NavLink to="news">link</NavLink> out to see more news
